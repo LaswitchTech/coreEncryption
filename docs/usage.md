@@ -19,7 +19,7 @@ $Encryption = new Encryption();
 `Encryption` provides the following properties:
 
 - [Configurator](https://github.com/LaswitchTech/coreConfigurator)
-- [Logger](https://github.com/LaswitchTech/coreEncryption)
+- [Logger](https://github.com/LaswitchTech/coreLogger)
 
 ### Methods
 `Encryption` provides the following methods:

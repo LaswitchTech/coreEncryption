@@ -18,7 +18,7 @@ class Controller extends BaseController {
      */
 	public function __construct($Auth){
 
-        // Namespace: /configurator
+        // Namespace: /encryption
 
 		// Set the controller Authentication Policy
 		$this->Public = true; // Set to false to require authentication
